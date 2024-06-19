@@ -1,4 +1,4 @@
-# Unet_liver_segmentation
+# RESUnet_liver_segmentation
 
 Optimized liver and liver tumor segmentation resunet algorithm with 95% accuracy for liver segmentation and 55% accuracy for tumor segmentation
 
