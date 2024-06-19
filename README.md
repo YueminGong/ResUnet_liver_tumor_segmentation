@@ -1,6 +1,6 @@
 # Unet_liver_segmentation
 
-Optimized liver and liver tumor segmentation Unet algorithm with 95% accuracy for liver segmentation and 55% accuracy for tumor segmentation
+Optimized liver and liver tumor segmentation resunet algorithm with 95% accuracy for liver segmentation and 55% accuracy for tumor segmentation
 
 Environment Requirements refer to the requirements.txt
 
